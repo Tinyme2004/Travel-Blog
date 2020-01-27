@@ -1,0 +1,46 @@
+p{
+color:green;
+}
+
+#text1{
+border: double black 3px;
+}
+
+#text2{
+text shadow: 4px 10px 5px orange;
+}
+
+
+#green{
+width:200px;
+height:300px;
+background-color:green;
+}
+
+
+#blue{
+width:400px;
+height:100px;
+background-color: blue;
+}
+
+#wide{
+color:white;
+letter-spacing: 40px;
+}
+
+.big{
+font-size:72px;
+}
+
+.small{
+font-size:14px;
+}
+
+.yellow{
+background-color: yellow;
+}
+
+.red{
+color: red;
+}
